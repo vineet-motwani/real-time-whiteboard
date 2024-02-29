@@ -41,6 +41,9 @@ The Real-Time Whiteboard is a collaborative web application that allows multiple
 7. Open your web browser and go to
    http://localhost:3000
 
+### Demo Video
+
+[Screencast from 2024-02-28 16-39-25.webm](https://github.com/vineet-motwani/real-time-whiteboard/assets/95994219/c759fb9e-cf8c-446c-8cf0-07e74417174f)
 
 ## Usage
 
